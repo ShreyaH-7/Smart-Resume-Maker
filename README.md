@@ -41,7 +41,7 @@ A modern, AI-powered resume builder ,designed to help users create professional,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AniketKakde04/ai-resume-builder-frontend.git
+git clone https://github.com/ShreyaH-7/Smart-Resume-Maker.git
 cd ai-resume-builder-frontend
 ```
 
